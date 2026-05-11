@@ -1,2 +1,3 @@
-# Exercício 9.1 - API Flask- a
-Hello world em flask
+# Exercício 9.1 - API Flask- b
+a)Hello world em flask
+b)Restful API
